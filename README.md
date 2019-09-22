@@ -1,6 +1,18 @@
 # -Getting-and-Cleaning-Data-Course-Project
  Getting and Cleaning Data Course Project Week 4 Project
  
+ ---
+title: "README.md"
+author: "Tiju Scaria"
+date: "September 22, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+ 
  This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
 
 
