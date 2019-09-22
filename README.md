@@ -2,12 +2,8 @@
 title: "README.md"
 author: "Tiju Scaria"
 date: "September 22, 2019"
-output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # -Getting-and-Cleaning-Data-Course-Project
 Getting and Cleaning Data Course Project Week 4 Project
